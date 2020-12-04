@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #EF7A85;
+    color: #FFF;
+    border-bottom: 2px solid;
+    font-weight: 400;
+}
+
+tr {
+    font-weight: 300;
+}
+
+.Par {
+    background-color: #DDD;
+}
